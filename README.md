@@ -1,2 +1,0 @@
-# parham-soleimany
-Training on phones, laptops and computers
